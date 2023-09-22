@@ -1,0 +1,204 @@
+@keyframes animacao{
+    from {background-color: rgb(121, 121, 121);width: 100px;}
+    to {background-color: rgb(245, 187, 99);width: 350px;}
+
+
+    
+
+    
+}
+.pad{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+.pp{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    text-decoration: none;
+    }
+    
+
+.pad2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+.padrao{
+   background-color: rgb(154, 255, 242);
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.textt{
+    display: flex;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    padding-left: 1px;
+    margin-left: 1px;
+
+    
+}
+
+.ani{
+    width: 350px;
+    height: 260px;
+    background-color:rgb(154, 255, 238);
+    display: flex;
+    align-items: baseline;
+    animation-name: animacao;
+    animation-duration: 2s;
+}
+
+.funt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+
+}
+.textt2{
+    display: flex;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    }
+
+ header{
+    width: 100%;
+    background-color: rgb(154, 255, 238);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    font-family: 'Lilita One', cursive;
+}
+
+.logo-texto{
+    margin-left: 20px;
+    color: rgb(126, 126, 126);
+    font-family: 'Lilita One', cursive;
+    font-size: 20px;
+    
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 0 10px;
+    font-family: 'Lilita One', cursive;
+   
+}
+
+.menu li a{
+    font-size: 24px;
+    color: rgb(126, 126, 126);
+    font-family: 'Lilita One', cursive;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.menu li a:hover{
+    background-color: rgb(255, 255, 255);
+
+}
+
+.margim{
+    padding-left: 55px;
+    margin-left: 55px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.pp2{
+    font-family: 'Lilita One', cursive;
+    font-size: 55px;
+    text-decoration: none;
+    color: rgb(12, 221, 221);
+    display: flex;
+    align-items:start;
+    padding-left: 45px;
+    margin-left: 45px;
+    justify-content:center;
+
+}
+
+.pp3{
+    padding-left: 45px;
+    margin-left: 45px;
+    font-family: 'Lilita One', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(9, 128, 128);
+    font-size: 18px;
+}
+
+.pp4{
+    padding-left: 180px;
+    margin-left: 180px;
+    font-family: 'Lilita One', cursive;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: rgb(9, 128, 128);
+    font-size: 27px;
+}
+
+.pp5{
+    padding-left: 47px;
+    margin-left: 47px;
+    font-family: 'Lilita One', cursive;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: rgb(9, 128, 128);
+    font-size: 27px;
+}
+
+.pp6{
+    font-family: 'Lilita One', cursive;
+    font-size: 55px;
+    text-decoration: none;
+    color: rgb(12, 221, 221);
+    padding-left: 15px;
+    margin-left: 15px;
+}
+
+.tut{
+    display: flex;
+    align-items: center;
+    font-family: 'Lilita One', cursive;
+    font-size: 17px;
+    padding-left: 15px;
+    margin-left: 15px;
+}
+
+.pp7{
+    font-family: 'Lilita One', cursive;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: rgb(9, 128, 128);
+    font-size: 22px;
+}
+
+.pp8{
+    font-family: 'Lilita One', cursive;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: rgb(9, 128, 128);
+    font-size: 27px;
+    padding-left: 5px;
+    margin-left: 5px;
+}
+
